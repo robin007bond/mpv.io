@@ -14,9 +14,10 @@ binaries are available on Windows and OS X. mpv can also be compiled from
 source on most UNIX systems: it is reported to work on BSDs (FreeBSD, OpenBSD
 and NetBSD) and Solaris.
 
-For more info about Installing mpv check out the `related web page
-</installation>`_. Steps to compile the software are listed in mpv's and
+For more info about Installing mpv check out the `related web page`_. Steps to compile the software are listed in mpv's and
 mpv-build's READMEs.
+
+.. _related web page: http://mpv.io/installation
 
 Key bindings
 ============
