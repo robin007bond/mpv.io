@@ -91,6 +91,6 @@ unsurprisingly, you can use: ::
   mpv --vo=opengl-hq:help
 
 For example, if you want to use the X11 backend to generate windows, and a
-color profile that matches my display, you would use: ::
+color profile that matches your display, you would use: ::
 
   mpv --vo=opengl-hq:backend=x11:icc-profile=path/to/icc/profile.icc
